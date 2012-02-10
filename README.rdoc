@@ -13,7 +13,7 @@ Follow along on {Visualizing a Network with Cypher}[http://wp.me/p26jdv-8B]
   
 Then visit http://localhost:9292/index.html to see the examples.
 
-See an example running on heroku at {http://morning-sunset-4428.herokuapp.com/index.html}[http://morning-sunset-4428.herokuapp.com/index.html]
+See an example running on heroku at {http://evening-mountain-5731.herokuapp.com/index.html}[http://evening-mountain-5731.herokuapp.com/index.html]
 
 === Links
 
